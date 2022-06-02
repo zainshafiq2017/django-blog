@@ -5,7 +5,7 @@ colorama==0.2.5
 dj-database-url==0.4.2
 django-forms-bootstrap==3.1.0
 gunicorn==19.7.1
-html5lib==0.999
+html5lib==0.99999999
 mock==2.0.0
 olefile==0.44
 pbr==3.1.1
